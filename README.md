@@ -1,2 +1,2 @@
 # wikimedia
-archivos de wiki
+Archivos de wiki base de datos.
