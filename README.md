@@ -1,2 +1,2 @@
 # wikimedia
-Archivos de wiki base de datos. Prueba diff.
+Archivos de wiki base de datos wikimedia.
